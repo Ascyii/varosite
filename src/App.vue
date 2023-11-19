@@ -1,6 +1,6 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="Wilkommen bei Minecraft Varo I"/>
+  <HelloWorld msg="Wilkommen bei Minecraft Varo IHallo"/>
 </template>
 
 <script>
