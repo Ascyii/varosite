@@ -3,7 +3,8 @@
     <img src="../assets/logo.png" alt="Italian Trulli">
     <h1>{{ msg }}</h1>
     <p>
-      Herzlich Willkommen zu unserem ersten Varoprojekt
+      Herzlich Willkommen zu unserem ersten Varoprojekt 
+      Yeah
     </p>
     <p>
       For a guide and recipes on how to configure / customize this project,<br>
