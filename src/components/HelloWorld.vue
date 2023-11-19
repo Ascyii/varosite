@@ -4,7 +4,7 @@
     <h1>{{ msg }}</h1>
     <p>
       Herzlich Willkommen zu unserem ersten Varoprojekt 
-      Yeah
+      Yeah sdasd
     </p>
     <p>
       For a guide and recipes on how to configure / customize this project,<br>
